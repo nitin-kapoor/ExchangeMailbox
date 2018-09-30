@@ -1,0 +1,10 @@
+30-09-2018 11:48:16 AM:    Loading Process Settings
+30-09-2018 11:48:16 AM:    Process Settings loaded successfully
+30-09-2018 11:48:16 AM:    Job Started
+30-09-2018 11:48:16 AM:    Creating EWS Connection
+30-09-2018 11:48:16 AM:    EWS Connection Created
+30-09-2018 11:48:16 AM:    Creating Event Subscription
+30-09-2018 11:48:16 AM:    Event Subscription Started
+30-09-2018 11:48:16 AM:    Checking Existing Emails
+30-09-2018 11:48:22 AM:    There are 6 Emails in Junk Folder
+30-09-2018 11:48:22 AM:    ========== Run Completed ==========
